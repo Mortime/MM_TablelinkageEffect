@@ -14,6 +14,9 @@
 @property (nonatomic, strong) NSArray *cagegoryArray;
 @property (nonatomic, strong) UITableView *cagegoryTabelView;
 @property (nonatomic, strong) MMProduceController *produceVC;
+@property (nonatomic, strong) NSString *name; // name;
+
+@property (nonatomic, strong) NSString *age; // 学生年龄问题
 
 
 @end

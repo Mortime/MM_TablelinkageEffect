@@ -13,6 +13,7 @@
 
 
 @interface MMProduceController : UIViewController
+@property (nonatomic, strong) NSString *number; // 考试分数
 
 
 

@@ -14,6 +14,7 @@
 @property (nonatomic, strong) NSArray *cagegoryArray;
 @property (nonatomic, strong) UITableView *cagegoryTabelView;
 @property (nonatomic, strong) MMProduceController *produceVC;
+@property (nonatomic, strong) NSString *name;
 
 
 
